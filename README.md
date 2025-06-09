@@ -2,7 +2,7 @@
 
 This automation blueprint integrates OpenAI's GPT-based AI assistants with HighLevel CRM to enable smart, automated messaging and contact management across multiple channels, including Live Chat, SMS, and WhatsApp.
 
-## 🚀 Overview
+##  Overview
 
 The **Multichannel AI Assistant & CRM Flow** is designed to:
 - Automatically respond to user inquiries using AI on Live Chat, SMS, and WhatsApp.
@@ -10,7 +10,7 @@ The **Multichannel AI Assistant & CRM Flow** is designed to:
 - Update contact information and custom fields in HighLevel CRM based on AI interactions.
 - Clean and format AI-generated responses 
 
-## 🧠 Use Case
+##  Use Case
 
 This flow is perfect for:
 - Lead engagement and qualification
@@ -18,32 +18,30 @@ This flow is perfect for:
 - AI-assisted chatbots for sales and support
 - CRM contact enrichment and syncing
 
-## 🔗 Integrations
+##  Integrations
 
 - **OpenAI GPT-4o / GPT-3.5**
 - **HighLevel CRM**
 - **Live Chat, SMS, and WhatsApp Channels**
 
-## ⚙️ Features
+##  Features
 
-- ✅ AI Response Generation via Assistant API
-- ✅ Message Filtering by Tag (e.g., `live chat ai`, `sms ai`, `whatsapp ai`)
-- ✅ CRM Contact Update (Tags, Custom Fields, Statuses)
-- ✅ Multichannel Message Handling Logic
-- ✅ Data Sanitization (Regex cleanups on responses)
+- AI Response Generation via Assistant API
+-  Message Filtering by Tag (e.g., `live chat ai`, `sms ai`, `whatsapp ai`)
+-  CRM Contact Update (Tags, Custom Fields, Statuses)
+-  Multichannel Message Handling Logic
+-  Data Sanitization (Regex cleanups on responses)
 
-## 📁 File Contents
+##  File Contents
 
 - `multichannel_ai_assitant_crm_flow.json`
 
 
 
-## 🧑‍💻 Created by Nina Pioquinto
+##  Created by Nina Pioquinto
 
-Automation Systems Engineer |  
-Helping businesses scale smart systems with ai automation and crm solutions.
+**Automation Systems Engineer**  
+Helping businesses scale with intelligent systems powered by AI and CRM automation.
 
-> Let’s build your custom system
-
----
+>  *Let’s build your custom system.*
 
