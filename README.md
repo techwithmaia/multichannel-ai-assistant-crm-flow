@@ -48,9 +48,9 @@ This flow is perfect for:
 
 ---
 
-## Created by Nina Pioquinto
+## Created by Maia P.
 
-**Automation Systems Engineer**  
+**AI Automation Engineer**  
 Helping businesses scale with intelligent systems powered by AI and CRM automation.
 
 > *Let’s build your custom system.*
